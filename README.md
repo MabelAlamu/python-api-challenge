@@ -1,6 +1,6 @@
-# python-api-challenge
+# Visualizing Weather Data
 
-#Part I: WeatherPy
+### Part I: WeatherPy
 
 We'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator utilizing a simple Python library and the OpenWeatherMap API
 
@@ -34,7 +34,7 @@ The final notebook should contain:
  * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
-#Part II: VacationPy
+### Part II: VacationPy
 
 
 Using jupyter-gmaps and the Google Places API let's use weather data to plan future vacations.
